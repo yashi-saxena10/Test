@@ -1,2 +1,2 @@
 # Test
-Adding projects, as I am learning.
+Testing respository, created to understand Github working
